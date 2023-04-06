@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Guilherme Fugazza GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**GuilhermeFugazza/GuilhermeFugazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /
+ <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="right" alt="Guilherme-pic" height="200" width="200" style="border-radius:50px " src="https://user-images.githubusercontent.com/104568663/230480076-88236b7a-9ef5-4de1-b847-da8b22dfc63c.gif">
+</div
+</div>
+  
+  ##
+ 
+</br>
+<div> 
+  <a href="https://www.instagram.com/gui_fugazza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermefugazza05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
