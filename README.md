@@ -1,7 +1,7 @@
 ## 𝗢𝗹á, 𝗺𝗲 𝗰𝗵𝗮𝗺𝗼 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗙𝘂𝗴𝗮𝘇𝘇𝗮
 <br/>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&langs_count=7&theme=dracula"/>
   <br/>
