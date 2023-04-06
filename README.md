@@ -5,11 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&langs_count=7&theme=dracula"/>
   <br/>
-</div>
-  ## 
-  𝗙𝗲𝗿𝗿𝗮𝗺𝗲𝗻𝘁𝗮𝘀 𝗲 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
+</div> 
+## awf
 <br/>
-
+𝗙𝗲𝗿𝗿𝗮𝗺𝗲𝗻𝘁𝗮𝘀 𝗲 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
   <div style="display: inline_block"><br>
   <img align="center" alt="Elane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
