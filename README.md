@@ -1,3 +1,6 @@
+##𝗢𝗹á, 𝗺𝗲 𝗰𝗵𝗮𝗺𝗼 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗙𝘂𝗴𝗮𝘇𝘇𝗮
+<br/>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&langs_count=7&theme=dracula"/>
@@ -5,17 +8,16 @@
   
 </div>
 <br/>
-Ferramentas e Tecnologias
+𝗙𝗲𝗿𝗿𝗮𝗺𝗲𝗻𝘁𝗮𝘀 𝗲 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
   <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /
- <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Elane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /
+ <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
    
    ##
