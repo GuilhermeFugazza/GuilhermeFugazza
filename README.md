@@ -1,6 +1,7 @@
 ## 𝗢𝗹á, 𝗺𝗲 𝗰𝗵𝗮𝗺𝗼 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗙𝘂𝗴𝗮𝘇𝘇𝗮
 <br/>
 
+𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&langs_count=7&theme=dracula"/>
@@ -22,7 +23,7 @@
    
    ##
 <br/>
-
+𝗘𝘀𝘁𝗮𝘁í𝘀𝘁𝗶𝗰𝗮𝘀
 <div> 
   <a href="https://instagram.com/gui_fugazza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="[https://discord.gg/](https://discord.gg/7terymuW2c)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
