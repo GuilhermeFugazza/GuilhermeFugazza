@@ -1,5 +1,5 @@
-[![Guilherme Fugazza GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme Fugazza GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /
