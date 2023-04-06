@@ -9,7 +9,7 @@
   ##
 𝗙𝗲𝗿𝗿𝗮𝗺𝗲𝗻𝘁𝗮𝘀 𝗲 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
 <br/>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img align="center" alt="Elane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
