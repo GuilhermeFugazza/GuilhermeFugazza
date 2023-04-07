@@ -5,8 +5,8 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=0d1017" alt="Guilherme Fugazza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=0d1017" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=000000&text_color=ffffff&bg_color=0d1017" alt="Guilherme Fugazza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&border_color=0984e3&title_color=ffffff&text_color=ffffff&bg_color=0d1017" />
 </div>
 
 ##
