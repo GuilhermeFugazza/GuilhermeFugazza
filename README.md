@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&border_color=0984e3&title_color=ffffff&text_color=ffffff&bg_color=0d1017" alt="Guilherme Fugazza github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&border_color=0984e3&title_color=ffffff&text_color=ffffff&bg_color=0d1017" alt="Guilherme Fugazza github stats" /> 
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&border_color=0984e3&title_color=ffffff&text_color=ffffff&bg_color=0d1017" />
 </div>
 
