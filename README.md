@@ -1,49 +1,59 @@
 # Guilherme Fugazza
 
-Software Engineer specialized in backend architecture, multi-tenant systems and production-ready applications.
+Software Engineer with hands-on experience building scalable backend systems, multi-tenant architectures and production-ready applications.
 
-I design and build scalable APIs, mobile applications and automation systems, handling everything from database modeling to containerized deployments in Linux environments.
+Currently working with API development, financial integrations, containerized environments and Linux-based infrastructure. I focus on delivering structured, secure and scalable real-world systems.
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<p align="center">
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/react-native-community/art/master/logo/react-native-logo.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/coollabsio/coolify/main/public/coolify-logo.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+
 </p>
 
 ---
 
 ## 🧠 Core Expertise
 
-- REST API design & architecture
-- Multi-tenant backend systems
-- Secure authentication & data encryption
-- Financial and third-party API integrations
-- Dockerized environments
-- Linux server management
-- Self-hosted deployments (Coolify)
+- REST API design & scalable backend architecture  
+- Multi-tenant systems with structured database modeling  
+- Secure authentication & sensitive data encryption  
+- Financial and third-party API integrations  
+- Containerized environments with Docker  
+- Self-hosted deployments using Coolify  
+- Linux server management  
 - Automation workflows (n8n & Python)
 
 ---
 
 ## 📬 Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:guilhermefugazza05@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
   </a>
 </p>
