@@ -9,7 +9,7 @@ Currently working with API development, financial integrations, containerized en
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
