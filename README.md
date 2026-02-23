@@ -1,9 +1,9 @@
 # Guilherme Fugazza
 
-Software Developer | Backend & Systems Architecture  
-Brazil 🇧🇷
+Software Engineer specialized in scalable backend systems and multi-tenant architectures.  
+Focused on real-world production systems, automation and infrastructure deployment.
 
-I build scalable systems, APIs, multi-tenant architectures and automation solutions focused on real-world production use.
+Brazil 🇧🇷  
 
 ---
 
@@ -25,8 +25,10 @@ I build scalable systems, APIs, multi-tenant architectures and automation soluti
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### DevOps & Infra
+### DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-000000?style=for-the-badge)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
@@ -34,9 +36,9 @@ I build scalable systems, APIs, multi-tenant architectures and automation soluti
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&theme=github_dark&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&theme=github_dark)
 
 ---
 
@@ -44,28 +46,17 @@ I build scalable systems, APIs, multi-tenant architectures and automation soluti
 
 - REST API architecture
 - Multi-tenant systems
+- Containerized applications (Docker)
+- Self-hosted deployments with Coolify
 - Secure data handling & encryption
-- Financial API integrations
+- Financial and external API integrations
 - Automation with n8n & Python
-- Scalable backend structure
-- Mobile apps with real UX
-
----
-
-## 🏗 Featured Projects
-
-### 📱 Concurseiros App (SaaS)
-Performance analytics, simulated exams, PDF generation, dashboard metrics and authentication system.
-
-### ☕ ERP for Coffee Shops
-Multi-tenant architecture, financial control, inventory and cost analysis (CMV).
-
-### 🛒 Multi-tenant E-commerce System
-Admin console, API-first architecture, scalable backend structure.
+- Linux server management
 
 ---
 
 ## 📬 Contact
 
-LinkedIn: (coloque aqui)
-Email: (coloque aqui)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermefugazza05@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Fugazza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fugazza-56720027a)
