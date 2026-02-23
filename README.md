@@ -1,55 +1,75 @@
-# Guilherme Fugazza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=120&section=header"/>
 
-Software Engineer with hands-on experience building scalable backend systems, multi-tenant architectures and production-ready applications.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0984e3&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Fugazza;Software+Developer;Fullstack+•+APIs+•+Automações+•+Infraestrutura)](https://git.io/typing-svg)
 
-Currently working with API development, financial integrations, containerized environments and Linux-based infrastructure. I focus on delivering structured, secure and scalable real-world systems.
+<br/>
 
----
+### 👨🏻‍💻 Sobre mim
 
-## ⚙️ Tech Stack
+Desenvolvedor de software com formação técnica em Informática e atualmente graduando em Engenharia de Software.  
+Possuo mais de 2 anos de experiência prática e +3000 horas de código em projetos reais.
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/react-native-community/art/master/logo/react-native-logo.svg" height="40"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/coollabsio/coolify/main/public/coolify-logo.svg" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
-<td></td>
-</tr>
-</table>
+Atuo no desenvolvimento de:
 
----
+- 🔹 Sistemas Web e APIs REST
+- 🔹 Aplicações Mobile com Expo
+- 🔹 Sistemas multi-tenant
+- 🔹 Automações com Python e n8n
+- 🔹 Integrações financeiras
+- 🔹 Infraestrutura com Docker, Coolify e Proxmox
 
-## 🧠 Core Expertise
+Tenho experiência em projetos em produção, arquitetura backend, banco de dados e deploy em ambientes Linux.
 
-- REST API design & scalable backend architecture  
-- Multi-tenant systems with structured database modeling  
-- Secure authentication & sensitive data encryption  
-- Financial and third-party API integrations  
-- Containerized environments with Docker  
-- Self-hosted deployments using Coolify  
-- Linux server management  
-- Automation workflows (n8n & Python)
+<br/>
 
----
+<div align="center">  
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&hide_border=true&title_color=0984e3&icon_color=0984e3&text_color=ffffff&bg_color=0d1117" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&hide_border=true&title_color=0984e3&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-## 📬 Contact
+##
 
-<p align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeFugazza&bg_color=0d1117&color=ffffff&line=0984e3&point=ffffff&area=true&hide_border=true)](https://github.com/GuilhermeFugazza)
+
+</br>
+
+##
+
+## 🛠 Ferramentas e Tecnologias
+<br/>
+<div align="center">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</div>
+
+<br/>
+
+##
+
+## 📫 Contato
+<br/>
+
+<div align="center"> 
   <a href="mailto:guilhermefugazza05@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
+    <img src="https://img.shields.io/badge/Email-0984e3?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0984e3?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+</div>
+
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=120&section=footer"/>
