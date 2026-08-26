@@ -58,10 +58,12 @@ Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produto
 
 ### Formação
 
-**Análise e Desenvolvimento de Sistemas** — em andamento        
-**Técnico em Informática integrado ao Ensino Médio** — Instituto Federal Catarinense
+**Análise e Desenvolvimento de Sistemas**: em andamento  
+
+**Técnico em Informática integrado ao Ensino Médio**: Instituto Federal Catarinense
 
 ### Idiomas
 
-**Português** nativo 
-**Inglês** leitura e escrita técnicas fluentes, conversação em desenvolvimento
+**Português**: nativo
+
+**Inglês**: leitura e escrita técnicas fluentes, conversação em desenvolvimento
