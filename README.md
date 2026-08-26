@@ -14,9 +14,9 @@
 
 ### Sobre
 
-Entrego produto de ponta a ponta — app mobile, painel web, API e a infraestrutura por baixo.
+Entrego produto de ponta a ponta, app mobile, painel web, API e a infraestrutura por baixo.
 
-Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native publicados nas lojas, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas — financeiras, controle de acesso biométrico e emissão fiscal — com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
+Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native publicados nas lojas, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas, financeiras, controle de acesso biométrico e emissão fiscal, com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
 
 Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produtos próprios do schema ao deploy, incluindo o ciclo comercial com clientes reais.
 
@@ -58,9 +58,10 @@ Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produto
 
 ### Formação
 
-**Análise e Desenvolvimento de Sistemas** — em andamento
+**Análise e Desenvolvimento de Sistemas** — em andamento        
 **Técnico em Informática integrado ao Ensino Médio** — Instituto Federal Catarinense
 
 ### Idiomas
 
-**Português** nativo · **Inglês** leitura e escrita técnicas fluentes, conversação em desenvolvimento
+**Português** nativo 
+**Inglês** leitura e escrita técnicas fluentes, conversação em desenvolvimento
