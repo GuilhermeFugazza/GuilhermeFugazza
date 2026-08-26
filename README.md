@@ -1,69 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0984e3&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Fugazza;Software+Developer;Fullstack+•+APIs+•+Automações+•+Infraestrutura)](https://git.io/typing-svg)
-
-<br/>
-
-### 👨🏻‍💻 Sobre mim
-
-Desenvolvedor de software com formação técnica em Informática e atualmente graduando em Engenharia de Software.  
-Possuo mais de 2 anos de experiência prática e +3000 horas de código em projetos reais.
-
-Atuo no desenvolvimento de:
-
-- 🔹 Sistemas Web e APIs REST
-- 🔹 Aplicações Mobile com Expo
-- 🔹 Sistemas multi-tenant
-- 🔹 Automações com Python e n8n
-- 🔹 Integrações financeiras
-- 🔹 Infraestrutura com Docker, Coolify e Proxmox
-
-Tenho experiência em projetos em produção, arquitetura backend, banco de dados e deploy em ambientes Linux.
-
-<br/>
-
-<div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFugazza&show_icons=true&count_private=true&hide_border=true&title_color=0984e3&icon_color=0984e3&text_color=ffffff&bg_color=0d1117" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFugazza&layout=compact&hide_border=true&title_color=0984e3&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-##
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeFugazza&bg_color=0d1117&color=ffffff&line=0984e3&point=ffffff&area=true&hide_border=true)](https://github.com/GuilhermeFugazza)
-
-</br>
-
-##
-
-## 🛠 Ferramentas e Tecnologias
+<h1 align="center">Guilherme Fugazza</h1>
 
 <p align="center">
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <b>Full-stack Product Engineer</b><br/>
+  React Native · Node.js · TypeScript · PostgreSQL
 </p>
 
-## 📫 Contato
-<br/>
+<p align="center">
+  <a href="mailto:guilhermefugazza05@gmail.com"><img src="https://img.shields.io/badge/Email-0684FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a"><img src="https://img.shields.io/badge/LinkedIn-0684FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<div align="center"> 
-  <a href="mailto:guilhermefugazza05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0984e3?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0984e3?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+---
 
-<br/>
+### Sobre
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=120&section=footer"/>
+Entrego produto de ponta a ponta — app mobile, painel web, API e a infraestrutura por baixo.
+
+Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native publicados nas lojas, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas — financeiras, controle de acesso biométrico e emissão fiscal — com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
+
+Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produtos próprios do schema ao deploy, incluindo o ciclo comercial com clientes reais.
+
+📍 Santa Catarina, Brasil · Remoto (UTC−3) · Aberto a CLT ou contractor
+
+---
+
+### No que trabalho
+
+**Produtos próprios**
+- **Comandafy** — PDV e comanda para cafeterias. PWA offline-first com fila em IndexedDB e sincronização idempotente, cozinha em tempo real via WebSocket, ponte de impressão ESC/POS e emissão fiscal NFC-e/NF-e com credenciais cifradas por tenant.
+- **EasyFinance** — App de finanças pessoais. Assinatura via Stripe com webhook, importação de extratos OFX/CSV/XLSX, TLS certificate pinning, widget iOS e App Intents.
+- **VistaCloud** — Plataforma B2B multi-tenant para revendas de veículos: catálogo, painel e API com funil de leads.
+
+**Entregas para cliente**
+- Sistema de gestão condominial com **reconhecimento facial** integrado a controladores Intelbras já instalados. Isolamento por Row-Level Security no PostgreSQL, argon2id com refresh rotativo, evidência cifrada em AES-256-GCM e descarte automático por política de retenção.
+
+> A maior parte do código acima está em repositórios privados, por serem produtos em comercialização ou trabalho sob contrato.
+
+---
+
+### Stack
+
+**Linguagens** — TypeScript · JavaScript · Python · SQL
+
+**Mobile** — React Native · Expo · EAS Build
+
+**Front-end** — React · Vite · Tailwind CSS
+
+**Back-end** — Node.js · NestJS · Express · Fastify · REST · WebSocket
+
+**Dados** — PostgreSQL (Row-Level Security, multi-tenant) · MySQL · Prisma · Redis
+
+**Infra** — Docker · Docker Compose · Coolify · Ubuntu Server · Proxmox · Caddy · Nginx · Cloudflare · GitHub Actions
+
+**Segurança** — argon2id · JWT com refresh rotativo · AES-256-GCM em repouso · TLS pinning · LGPD by design
+
+---
+
+### Formação
+
+**Análise e Desenvolvimento de Sistemas** — em andamento
+**Técnico em Informática integrado ao Ensino Médio** — Instituto Federal Catarinense
+
+### Idiomas
+
+**Português** nativo · **Inglês** leitura e escrita técnicas fluentes, conversação em desenvolvimento
