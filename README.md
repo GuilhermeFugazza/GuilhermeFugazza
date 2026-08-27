@@ -14,9 +14,9 @@
 
 ### Sobre
 
-Entrego produto de ponta a ponta — app mobile, painel web, API e a infraestrutura por baixo.
+Entrego produto de ponta a ponta: app mobile, painel web, API e a infraestrutura por baixo.
 
-Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native em beta via TestFlight, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas — financeiras, controle de acesso biométrico e emissão fiscal — com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
+Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native em beta via TestFlight, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas, como financeiras, controle de acesso biométrico e emissão fiscal, com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
 
 Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produtos próprios do schema ao deploy, incluindo o ciclo comercial com clientes reais.
 
@@ -27,9 +27,9 @@ Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produto
 ### No que trabalho
 
 **Produtos próprios**
-- **Comandafy** — PDV e comanda para cafeterias. PWA offline-first com fila em IndexedDB e sincronização idempotente, cozinha em tempo real via WebSocket, ponte de impressão ESC/POS e emissão fiscal NFC-e/NF-e com credenciais cifradas por tenant.
-- **EasyFinance** — App de finanças pessoais. Assinatura via Stripe com webhook, importação de extratos OFX/CSV/XLSX, TLS certificate pinning, widget iOS e App Intents.
-- **VistaCloud** — Plataforma B2B multi-tenant para revendas de veículos: catálogo, painel e API com funil de leads.
+- **Comandafy**: PDV e comanda para cafeterias. PWA offline-first com fila em IndexedDB e sincronização idempotente, cozinha em tempo real via WebSocket, ponte de impressão ESC/POS e emissão fiscal NFC-e/NF-e com credenciais cifradas por tenant.
+- **EasyFinance**: App de finanças pessoais. Assinatura via Stripe com webhook, importação de extratos OFX/CSV/XLSX, TLS certificate pinning, widget iOS e App Intents.
+- **VistaCloud**: Plataforma B2B multi-tenant para revendas de veículos: catálogo, painel e API com funil de leads.
 
 **Entregas para cliente**
 - Sistema de gestão condominial com **reconhecimento facial** integrado a controladores Intelbras já instalados. Isolamento por Row-Level Security no PostgreSQL, argon2id com refresh rotativo, evidência cifrada em AES-256-GCM e descarte automático por política de retenção.
@@ -40,26 +40,26 @@ Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produto
 
 ### Stack
 
-**Linguagens** — TypeScript · JavaScript · Python · SQL
+**Linguagens:** TypeScript · JavaScript · Python · SQL
 
-**Mobile** — React Native · Expo · EAS Build
+**Mobile:** React Native · Expo · EAS Build
 
-**Front-end** — React · Vite · Tailwind CSS
+**Front-end:** React · Vite · Tailwind CSS
 
-**Back-end** — Node.js · NestJS · Express · Fastify · REST · WebSocket
+**Back-end:** Node.js · NestJS · Express · Fastify · REST · WebSocket
 
-**Dados** — PostgreSQL (Row-Level Security, multi-tenant) · MySQL · Prisma · Redis
+**Dados:** PostgreSQL (Row-Level Security, multi-tenant) · MySQL · Prisma · Redis
 
-**Infra** — Docker · Docker Compose · Coolify · Ubuntu Server · Proxmox · Caddy · Nginx · Cloudflare · GitHub Actions
+**Infra:** Docker · Docker Compose · Coolify · Ubuntu Server · Proxmox · Caddy · Nginx · Cloudflare · GitHub Actions
 
-**Segurança** — argon2id · JWT com refresh rotativo · AES-256-GCM em repouso · TLS pinning · LGPD by design
+**Segurança:** argon2id · JWT com refresh rotativo · AES-256-GCM em repouso · TLS pinning · LGPD by design
 
 ---
 
 ### Formação
 
-**Análise e Desenvolvimento de Sistemas** — em andamento
-**Técnico em Informática integrado ao Ensino Médio** — Instituto Federal Catarinense
+**Análise e Desenvolvimento de Sistemas** · em andamento (UNIVALI)
+**Técnico em Informática integrado ao Ensino Médio** · Instituto Federal Catarinense
 
 ### Idiomas
 
