@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://guilherme.ftechworks.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0684FC?style=for-the-badge&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:guilhermefugazza05@gmail.com"><img src="https://img.shields.io/badge/Email-0684FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/guilherme-fugazza-56720027a"><img src="https://img.shields.io/badge/LinkedIn-0684FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -14,27 +15,26 @@
 
 ### Sobre
 
-Entrego produto de ponta a ponta: app mobile, painel web, API e a infraestrutura por baixo.
+Entrego o produto inteiro: banco de dados, API, app, painel web e o servidor que sustenta tudo.
 
-Dois anos e meio construindo **sistemas multi-tenant em produção**: apps React Native em beta via TestFlight, APIs Node.js, e o deploy em servidor Linux que sustenta tudo. Trabalho com integrações críticas, como financeiras, controle de acesso biométrico e emissão fiscal, com criptografia de dados sensíveis e LGPD desde o desenho, não como remendo.
+São 3 anos como desenvolvedor full-stack. Desde 2025, lidero a equipe de desenvolvimento de uma empresa de administração condominial e aeronáutica: somos 3 desenvolvedores, e eu coordeno os outros 2, com arquitetura, padrões de código, revisão e planejamento das entregas.
 
-Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produtos próprios do schema ao deploy, incluindo o ciclo comercial com clientes reais.
+Em paralelo, pela FTech Works, construí e mantenho dois produtos em uso, o **Poupfy** e o **Comandafy**, e entrego sistemas sob contrato.
 
-📍 Santa Catarina, Brasil · Remoto (UTC−3) · Aberto a CLT ou contractor
+Santa Catarina, Brasil. Remoto (UTC-3), CLT ou PJ.
 
 ---
 
 ### No que trabalho
 
-**Produtos próprios**
-- **Comandafy**: PDV e comanda para cafeterias. PWA offline-first com fila em IndexedDB e sincronização idempotente, cozinha em tempo real via WebSocket, ponte de impressão ESC/POS e emissão fiscal NFC-e/NF-e com credenciais cifradas por tenant.
-- **EasyFinance**: App de finanças pessoais. Assinatura via Stripe com webhook, importação de extratos OFX/CSV/XLSX, TLS certificate pinning, widget iOS e App Intents.
-- **VistaCloud**: Plataforma B2B multi-tenant para revendas de veículos: catálogo, painel e API com funil de leads.
+**Produtos em uso**
+- **[Poupfy](https://apps.apple.com/br/app/poupfy/id6812896668)**: app de finanças pessoais na App Store, com assinatura pela Stripe (cartão e Pix). App em React Native, API em Node.js, PostgreSQL com Prisma, servidor MCP com OAuth, Sentry e campos sensíveis cifrados em AES-256-GCM.
+- **[Comandafy](https://ftechworks.com.br/comandafy/)**: PDV e comanda para cafeterias, em operação em 3 lojas. PWA que continua vendendo sem internet, com fila no aparelho e sincronização idempotente, NFC-e, cozinha em tempo real por WebSocket, testes e2e em Jest e Supertest e backup diário.
 
-**Entregas para cliente**
-- Sistema de gestão condominial com **reconhecimento facial** integrado a controladores Intelbras já instalados. Isolamento por Row-Level Security no PostgreSQL, argon2id com refresh rotativo, evidência cifrada em AES-256-GCM e descarte automático por política de retenção.
+**Sob contrato**
+- **Mensageria de Condomínios**, para o Edifício Neo Superquadra: retirada de encomendas por reconhecimento facial integrada a controladores Intelbras, Row-Level Security no PostgreSQL, argon2 com refresh rotativo, API em OpenAPI com Zod e descarte automático de dados pela LGPD.
 
-> A maior parte do código acima está em repositórios privados, por serem produtos em comercialização ou trabalho sob contrato.
+> O código desses sistemas fica em repositórios privados, por serem produtos em venda ou trabalho sob contrato.
 
 ---
 
@@ -44,23 +44,29 @@ Além do trabalho CLT, mantenho a **FTech Works**, onde construo e opero produto
 
 **Mobile:** React Native · Expo · EAS Build
 
-**Front-end:** React · Vite · Tailwind CSS
+**Front-end:** React · Vite · Tailwind CSS · PWA
 
-**Back-end:** Node.js · NestJS · Express · Fastify · REST · WebSocket
+**Back-end:** Node.js · NestJS · Express · Fastify · REST · OpenAPI · Zod · WebSocket · MCP
 
-**Dados:** PostgreSQL (Row-Level Security, multi-tenant) · MySQL · Prisma · Redis
+**Dados:** PostgreSQL (Row-Level Security, multi-tenant) · Prisma · Redis
 
-**Infra:** Docker · Docker Compose · Coolify · Ubuntu Server · Proxmox · Caddy · Nginx · Cloudflare · GitHub Actions
+**Filas e eventos:** BullMQ · fila no PostgreSQL com outbox, retentativa e dead-letter · webhooks idempotentes
 
-**Segurança:** argon2id · JWT com refresh rotativo · AES-256-GCM em repouso · TLS pinning · LGPD by design
+**Observabilidade:** logs estruturados (pino) · trilha de auditoria · healthchecks · Sentry
+
+**Testes e CI:** Jest · Vitest · Supertest · GitHub Actions
+
+**Infra:** Linux (Ubuntu Server) · AWS (EC2) · Docker · Docker Compose · Coolify · systemd · Proxmox · Caddy · Nginx · Cloudflare
+
+**Segurança:** argon2 · JWT com refresh rotativo · AES-256-GCM · rate limiting · LGPD
 
 ---
 
 ### Formação
 
-**Análise e Desenvolvimento de Sistemas** · em andamento (UNIVALI)
-**Técnico em Informática integrado ao Ensino Médio** · Instituto Federal Catarinense
+**Análise e Desenvolvimento de Sistemas**, UNIVALI, conclusão em 2027<br/>
+**Técnico em Informática integrado ao Ensino Médio**, Instituto Federal Catarinense
 
 ### Idiomas
 
-**Português** nativo · **Inglês** leitura e escrita técnicas fluentes, conversação em desenvolvimento
+**Português** nativo. **Inglês** técnico intermediário, na leitura e na escrita.
